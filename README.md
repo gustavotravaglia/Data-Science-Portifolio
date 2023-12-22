@@ -1,5 +1,5 @@
 # Gustavo Travaglia - Data Scientist Portfolio
-
+![](https://github.com/gustavotravaglia/DS_portifolio/blob/main/images/photo.jpeg)
 Welcome to my GitHub portfolio! I'm Gustavo Travaglia, a passionate data professional, and this repository serves as a collection of my data science projects.
 
 ## Projects
