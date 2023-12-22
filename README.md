@@ -1,7 +1,3 @@
-# Gustavo Travaglia - Data Scientist Portfolio
-
-Welcome to my GitHub portfolio! I'm Gustavo Travaglia, a passionate data professional, and this repository serves as a collection of my data science projects.
-
 ## Projects
 
 ## Skills
